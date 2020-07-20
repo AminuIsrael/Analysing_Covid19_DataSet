@@ -1,4 +1,4 @@
-﻿"Country","Total_Cases","New_Cases","Total_Deaths","New_Deaths","Total_Recovered","Active_Cases","Serious/Critical","Tot_Cases","Deaths","Total_Tests","Tests","Continents"
+﻿"Country","Total_Cases","New_Cases","Total_Deaths","New_Deaths","Total_Recovered","Active_Cases","Serious_Critical","Tot_Cases","Deaths","Total_Tests","Tests","Continents"
 "World","9067824","28,887","471040","1,436","4850718","3746066","54740","1,163","60.4","","","All"
 "USA","2356715","58","122248 ","1","980367","1254100","16477","7,121","369","28,492,770","86,093","North America"
 "Brazil","1086990","","50659 ","","579226","457105","8318","5,115","238","2,430,347","11,436","South America"
